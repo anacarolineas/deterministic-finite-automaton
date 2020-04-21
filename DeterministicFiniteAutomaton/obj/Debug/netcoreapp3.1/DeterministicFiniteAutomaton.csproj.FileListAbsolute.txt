@@ -1,0 +1,13 @@
+C:\Users\anaca\source\repos\DeterministicFiniteAutomaton\DeterministicFiniteAutomaton\bin\Debug\netcoreapp3.1\DeterministicFiniteAutomaton.exe
+C:\Users\anaca\source\repos\DeterministicFiniteAutomaton\DeterministicFiniteAutomaton\bin\Debug\netcoreapp3.1\DeterministicFiniteAutomaton.deps.json
+C:\Users\anaca\source\repos\DeterministicFiniteAutomaton\DeterministicFiniteAutomaton\bin\Debug\netcoreapp3.1\DeterministicFiniteAutomaton.runtimeconfig.json
+C:\Users\anaca\source\repos\DeterministicFiniteAutomaton\DeterministicFiniteAutomaton\bin\Debug\netcoreapp3.1\DeterministicFiniteAutomaton.runtimeconfig.dev.json
+C:\Users\anaca\source\repos\DeterministicFiniteAutomaton\DeterministicFiniteAutomaton\bin\Debug\netcoreapp3.1\DeterministicFiniteAutomaton.dll
+C:\Users\anaca\source\repos\DeterministicFiniteAutomaton\DeterministicFiniteAutomaton\bin\Debug\netcoreapp3.1\DeterministicFiniteAutomaton.pdb
+C:\Users\anaca\source\repos\DeterministicFiniteAutomaton\DeterministicFiniteAutomaton\obj\Debug\netcoreapp3.1\DeterministicFiniteAutomaton.csprojAssemblyReference.cache
+C:\Users\anaca\source\repos\DeterministicFiniteAutomaton\DeterministicFiniteAutomaton\obj\Debug\netcoreapp3.1\DeterministicFiniteAutomaton.AssemblyInfoInputs.cache
+C:\Users\anaca\source\repos\DeterministicFiniteAutomaton\DeterministicFiniteAutomaton\obj\Debug\netcoreapp3.1\DeterministicFiniteAutomaton.AssemblyInfo.cs
+C:\Users\anaca\source\repos\DeterministicFiniteAutomaton\DeterministicFiniteAutomaton\obj\Debug\netcoreapp3.1\DeterministicFiniteAutomaton.dll
+C:\Users\anaca\source\repos\DeterministicFiniteAutomaton\DeterministicFiniteAutomaton\obj\Debug\netcoreapp3.1\DeterministicFiniteAutomaton.pdb
+C:\Users\anaca\source\repos\DeterministicFiniteAutomaton\DeterministicFiniteAutomaton\obj\Debug\netcoreapp3.1\DeterministicFiniteAutomaton.genruntimeconfig.cache
+C:\Users\anaca\source\repos\DeterministicFiniteAutomaton\DeterministicFiniteAutomaton\obj\Debug\netcoreapp3.1\DeterministicFiniteAutomaton.csproj.CoreCompileInputs.cache
