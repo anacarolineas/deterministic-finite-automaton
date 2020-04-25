@@ -18,7 +18,6 @@ namespace DeterministicFiniteAutomaton
             }
 
             AutomatoDeterministico afd = new AutomatoDeterministico();
-
             afd.Verificar(sentence);
 
             Console.ReadKey();
@@ -26,4 +25,3 @@ namespace DeterministicFiniteAutomaton
     }
 
 }
-

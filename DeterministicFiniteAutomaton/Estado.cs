@@ -19,7 +19,7 @@ namespace DeterministicFiniteAutomaton
 
         public bool ehAceito()
         {
-            return Aceito;
+            return this.Aceito;
         }
 
         public void addTransicao(char simbolo, int estado)
@@ -27,9 +27,13 @@ namespace DeterministicFiniteAutomaton
             transicao.Add(simbolo, estado);
         }
 
+        public bool existeTransicao(char simbolo){
+            return this.transicao.ContainsKey(simbolo);
+        }
+
         public int getTransicao(char simbolo)
         {
-            return transicao.get(simbolo);
+            return this.transicao[simbolo];
         }
     }
 }
